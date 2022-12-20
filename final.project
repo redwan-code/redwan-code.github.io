@@ -1,14 +1,30 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>Redwan's Fianl Project</title>
-    </head>
-    <body>
+  <head>
+          <meta charset="utf-8">
+        <title>About Me</title>
+    <link rel="stylesheet" href="mystyle.css">
+  </head>
+  <body id="nav-table">
+    <img src="banner.jpg">
     
-        <h1>
-        Welcome to my final project.
-</h1>
-        
-    </body>
-</html>
+    <table id="nav-table">
+      <tr>
+        <td id="nav-td"><a href="https://redwan-code.github.io"><img src="home.pnj.png"></a></td>
+        <td id="nav-td"><a href="https://redwan-code.github.io/javascripts.html"><img src="javascript.pnj.png"></a></td>
+        <td id="nav-td"><a href="https://redwan-code.github.io/about.html"><img src="about.pnj.png"></a></td>
+        <td id="nav-td"><a href="apps.html"><img src="apps.pnj.png"></a></td>
+      </tr>
+    </table>
+    <h1>About Me</h1>
+      <p>My name is Redwan Albadawi. I am studying Computer Science at the University of Rhode Island. Thsi is my second year in college.</p>
+    <p>I like playing soccer and it's my favorite hobby. I have been playing soccer for the past 12 years. I also like swimming. That's why I prefere Summer.</p>
+    <table>
+      <tr>
+    <td><img src="soccer#3.jpg"></td>
+        <td><img src="swimming#2.jpg"></td>
+      </tr>
+    </table>
+      
+              </body>
+              </html>
